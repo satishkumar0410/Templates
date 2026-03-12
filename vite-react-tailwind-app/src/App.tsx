@@ -8,7 +8,7 @@ import Experience from './components/Experience.tsx'
 import Testimonials from './components/Testimonials.tsx'
 import Location from './components/Location.tsx'
 import Reserve from './components/Reserve.tsx'
-import Newsletter from './components/NewsLetter.tsx'
+import Newsletter from './components/Newsletter.tsx'
 import Footer from './components/Footer.tsx'
 
 export default function App() {
